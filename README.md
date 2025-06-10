@@ -1,4 +1,3 @@
-# Titanic-EDA
 # Titanic Dataset - Exploratory Data Analysis
 
 ## Objective
